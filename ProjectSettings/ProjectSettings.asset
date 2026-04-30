@@ -783,7 +783,7 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Standalone: MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED
+    Standalone: MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED;USE_REWIRED;USE_TMP;USE_ADDRESSABLE;USE_CINEMACHINE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
