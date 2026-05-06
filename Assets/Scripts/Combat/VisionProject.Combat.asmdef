@@ -1,7 +1,9 @@
 {
     "name": "VisionProject.Combat",
     "rootNamespace": "VisionProject.Combat",
-    "references": [],
+    "references": [
+        "GUID:2b0b59345cd8d0449b4ffe26e286a54b"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
